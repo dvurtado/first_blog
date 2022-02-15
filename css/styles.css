@@ -8,13 +8,15 @@ body    {
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
 
+
 }
 
 
 #container {
 
     padding: 5px;
-    margin: 3em;
+    width: 70%;
+    margin: 0px auto;
     border: 5px solid rgba(172, 160, 0, 0.904);
 
 }
@@ -22,10 +24,17 @@ body    {
 #cabecera {
 
     padding: 0;
-    font-size: 23px;
-    color: rgb(0, 248, 248);
+    font-size: 30px;
+    color: rgb(0, 255, 13);
     text-align: left;
     background-color: rgb(0, 95, 95);
-    
+    font-family: Helvetica;
+    box-shadow: 10px 10px 19px 1px rgba(0,194,129,1);    
+
+}
+
+#Categoria {
+
+    padding: 1em;
 
 }
