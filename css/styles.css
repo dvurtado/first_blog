@@ -7,7 +7,7 @@ body    {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
-    background-color: rgb(206, 207, 207);
+    background-color: rgb(46, 46, 46);
 
 
 }
@@ -28,14 +28,32 @@ body    {
     font-size: 30px;
     color: rgb(0, 255, 13);
     text-align: left;
-    background-color: rgb(0, 95, 95);
+    background-color: rgb(112, 112, 112);
     font-family: Helvetica;
-    box-shadow: 10px 10px 19px 1px rgba(0,194,129,1);    
+    box-shadow: 10px 10px 19px 1px rgb(228, 167, 0);    
 
 }
 
 #Categoria {
 
     padding: 1em;
+
+}
+
+#post {
+
+    background-color: white;
+
+}
+
+#logo {
+
+    width: 50px;
+    vertical-align: middle;
+}
+
+#titulo {
+
+    background-color: white;
 
 }
